@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/diceball_v3/static/css/main.fa9425e3.chunk.css",
-    "main.js": "/diceball_v3/static/js/main.87e0abdb.chunk.js",
-    "main.js.map": "/diceball_v3/static/js/main.87e0abdb.chunk.js.map",
+    "main.js": "/diceball_v3/static/js/main.9caefbde.chunk.js",
+    "main.js.map": "/diceball_v3/static/js/main.9caefbde.chunk.js.map",
     "runtime-main.js": "/diceball_v3/static/js/runtime-main.b645bc3d.js",
     "runtime-main.js.map": "/diceball_v3/static/js/runtime-main.b645bc3d.js.map",
     "static/js/2.1e3e9fd3.chunk.js": "/diceball_v3/static/js/2.1e3e9fd3.chunk.js",
     "static/js/2.1e3e9fd3.chunk.js.map": "/diceball_v3/static/js/2.1e3e9fd3.chunk.js.map",
     "index.html": "/diceball_v3/index.html",
-    "precache-manifest.f376da59fbc2677f584ed315ee986a86.js": "/diceball_v3/precache-manifest.f376da59fbc2677f584ed315ee986a86.js",
+    "precache-manifest.0686e31e4096242fa6c06f4e57f2311c.js": "/diceball_v3/precache-manifest.0686e31e4096242fa6c06f4e57f2311c.js",
     "service-worker.js": "/diceball_v3/service-worker.js",
     "static/css/main.fa9425e3.chunk.css.map": "/diceball_v3/static/css/main.fa9425e3.chunk.css.map",
     "static/js/2.1e3e9fd3.chunk.js.LICENSE": "/diceball_v3/static/js/2.1e3e9fd3.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b645bc3d.js",
     "static/js/2.1e3e9fd3.chunk.js",
     "static/css/main.fa9425e3.chunk.css",
-    "static/js/main.87e0abdb.chunk.js"
+    "static/js/main.9caefbde.chunk.js"
   ]
 }
