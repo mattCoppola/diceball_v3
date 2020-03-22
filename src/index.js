@@ -63,7 +63,10 @@ class GameConsole extends React.Component {
 				strikes: gameStats.strikes,
 				balls: gameStats.balls,
 				outs: gameStats.outs
-			}
+			},
+			output: [
+				gameStats.output
+			]
 		});
 	}
 
@@ -182,6 +185,7 @@ class GameConsole extends React.Component {
 				state.stats.strikes = 0;
 			} else if (umpireAction.updateDatabase) {
 				let data = this.state.stats;
+				data.output = this.state.output;
 				this.updateToDatabase(data);
 			}
 			return { output };
