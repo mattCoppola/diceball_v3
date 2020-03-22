@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diceball_v3/static/css/main.fa9425e3.chunk.css",
+    "main.js": "/diceball_v3/static/js/main.6d3505fe.chunk.js",
+    "main.js.map": "/diceball_v3/static/js/main.6d3505fe.chunk.js.map",
+    "runtime-main.js": "/diceball_v3/static/js/runtime-main.b645bc3d.js",
+    "runtime-main.js.map": "/diceball_v3/static/js/runtime-main.b645bc3d.js.map",
+    "static/js/2.1e3e9fd3.chunk.js": "/diceball_v3/static/js/2.1e3e9fd3.chunk.js",
+    "static/js/2.1e3e9fd3.chunk.js.map": "/diceball_v3/static/js/2.1e3e9fd3.chunk.js.map",
+    "index.html": "/diceball_v3/index.html",
+    "precache-manifest.69dd03c886bf8f82693ec0f9940791af.js": "/diceball_v3/precache-manifest.69dd03c886bf8f82693ec0f9940791af.js",
+    "service-worker.js": "/diceball_v3/service-worker.js",
+    "static/css/main.fa9425e3.chunk.css.map": "/diceball_v3/static/css/main.fa9425e3.chunk.css.map",
+    "static/js/2.1e3e9fd3.chunk.js.LICENSE": "/diceball_v3/static/js/2.1e3e9fd3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b645bc3d.js",
+    "static/js/2.1e3e9fd3.chunk.js",
+    "static/css/main.fa9425e3.chunk.css",
+    "static/js/main.6d3505fe.chunk.js"
+  ]
+}
